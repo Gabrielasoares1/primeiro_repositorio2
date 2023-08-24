@@ -1,4 +1,4 @@
-# primeiro_repositorio2
+# variaveis_git
 Variáveis
 salario=1200
 idade=23
